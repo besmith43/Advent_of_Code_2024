@@ -3,8 +3,8 @@
 
 figlet "Advent of Code 2024"
 
-day=4
-part=2
+day=7
+part=1
 
 echo "running Day $day Part $part"
 echo "======================================"
