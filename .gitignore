@@ -1,5 +1,7 @@
 
 ownership_code.txt
 
-
+bin/
+obj/
+target/
 
